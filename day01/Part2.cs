@@ -1,6 +1,6 @@
 ﻿namespace AOC2022_Day1;
 
-public static class Boilerplate
+public static class Part2
 {
     public static void Main(string[] args)
     {

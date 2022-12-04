@@ -19,7 +19,7 @@ public static class Boilerplate
 
 10000";
 
-        /* Run with sample input if any argument is supplied */
+        /* Run with puzzle input if any argument is supplied */
         if (args.Length == 1)
         {
             input = File.ReadAllText("./input.txt");
